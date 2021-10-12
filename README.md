@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Cara install dan startsetelah clone: 
+Cara install dan start setelah clone: 
 - npm install
 - npm start
 
